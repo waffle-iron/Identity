@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Indexyz/Identity.png?label=ready&title=Ready)](https://waffle.io/Indexyz/Identity?utm_source=badge)
 # Identity
 [![](https://images.microbadger.com/badges/image/indexyz/identity:reload.svg)](https://microbadger.com/images/indexyz/identity:reload "Docker Status")
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
